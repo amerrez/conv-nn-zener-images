@@ -1,2 +1,2 @@
-model_checkpoint_path: "model_file_test"
-all_model_checkpoint_paths: "model_file_test"
+model_checkpoint_path: "model_150_cross_1000images_4layer_SSE4"
+all_model_checkpoint_paths: "model_150_cross_1000images_4layer_SSE4"
